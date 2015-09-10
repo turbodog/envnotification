@@ -1,0 +1,15 @@
+{
+  "name": "turbodog-envnotification",
+  "version": "0.1.0",
+  "author": "turbodog",
+  "summary": "Understand what environment a puppet run happens in",
+  "license": "Apache-2.0",
+  "source": "https://github.com/turbodog/envnotification",
+  "project_page": "https://github.com/turbodog/envnotification",
+  "issues_url": "https://github.com/turbodog/envnotification/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
